@@ -11,7 +11,7 @@ public class DemoController {
     }
     @GetMapping("/suk")
     public String getMethodName() {
-        return "Erripuka";
+        return "Hey";
     }
     
 }
